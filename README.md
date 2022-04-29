@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hassan-Adnan. Let me guess, are you here for..
+👋 Hi, I’m @Hassan-Adnan. Let me guess, are you here for..
 
 - Finding a good developer resource?
 - Stuck in implementing a functionality in your code?
