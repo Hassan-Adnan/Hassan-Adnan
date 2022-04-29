@@ -1,4 +1,4 @@
-👋 Hi, I’m @Hassan-Adnan. 
+👋 Hi, I’m @Hassan-Adnan, a Full-Stack developer. 
 
 Let me guess, are you here for..
 
@@ -7,6 +7,7 @@ Let me guess, are you here for..
 - Having optimization issues?
 
 Let me help you out! 😎
+
 Lets talk about it over a cup of coffee if it is specifically built in **Javascript**, **.NET**, **Java (Springboot)** or **Python** 🤩
 
 - Didn't find any **public** repositories? 😔 
